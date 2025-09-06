@@ -180,19 +180,14 @@ plt.show()
 ```
 # Output Waveform
 IDEAL SAMPLING
-```
-![WhatsApp Image](https://github.com/user-attachments/assets/23919ef8-d530-45dc-9c43-4c3e19718095)
+![WhatsApp Image 2025-09-06 at 14 22 43_21c1526a](https://github.com/user-attachments/assets/93994a9e-d549-454b-a7ed-c339fa10a7d7)
 
-```
 NATURAL SAMPLING
-```
 ![WhatsApp Image ](https://github.com/user-attachments/assets/9576f6fd-8909-43e0-a8d4-8bf110d9b5ac)
 
-```
 FLAT-TOP SAMPLING
-```
 ![WhatsApp Image](https://github.com/user-attachments/assets/4e432c84-9bcb-4ad8-a5d2-208df31f9a12)
-```
+
 
 # Results
 ```
